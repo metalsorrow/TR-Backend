@@ -1,4 +1,4 @@
-package Datos;
+package datos;
 
 public class RegionMOD {
     private int id_region;

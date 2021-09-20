@@ -1,4 +1,4 @@
-package Datos;
+package datos;
 
 import org.springframework.stereotype.Repository;
 
